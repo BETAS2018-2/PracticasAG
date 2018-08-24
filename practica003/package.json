@@ -1,0 +1,15 @@
+{
+  "name": "practica003",
+  "version": "1.0.0",
+  "description": "Es una practica de betas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anayeli",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
